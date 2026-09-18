@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "Mission Approval",
+  "moduleDescription": "Intended AVM Terraform resource module for Microsoft.Mission/approval.",
+  "canonicalType": "Microsoft.Mission/approval",
+  "owners": [],
+  "telemetryIdPrefix": "46d3xtrf.res.47df012"
+}
