@@ -3,6 +3,8 @@
   "moduleDisplayName": "Mission Approval",
   "moduleDescription": "Intended AVM Terraform resource module for Microsoft.Mission/approval.",
   "canonicalType": "Microsoft.Mission/approval",
-  "owners": [],
+  "owners": [
+    "SvenAelterman"
+  ],
   "telemetryIdPrefix": "46d3xtrf.res.47df012"
 }
